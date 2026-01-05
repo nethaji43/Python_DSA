@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08c55fff-b002-44c0-ae0c-701c068e8feb" name="Changes" comment="" />
+    <list default="true" id="08c55fff-b002-44c0-ae0c-701c068e8feb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/1PythonFoundation&amp;DSABaiscs/2IfElifElseForWhile/LC1342.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1PythonFoundation&amp;DSABaiscs/2IfElifElseForWhile/LC412.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1PythonFoundation&amp;DSABaiscs/2IfElifElseForWhile/notes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1PythonFoundation&amp;DSABaiscs/2IfElifElseForWhile/pratice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -25,25 +34,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.lc1920.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leetcode1480.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mudhi/OneDrive/Desktop/Tech/Python&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.LC1342.executor": "Run",
+    "Python.LC412.executor": "Run",
+    "Python.lc1920.executor": "Run",
+    "Python.leetcode1480.executor": "Run",
+    "Python.notes.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.pratice.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Mudhi/OneDrive/Desktop/Tech/Python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mudhi\OneDrive\Desktop\Tech\Python\1PythonFoundation&amp;DSABaiscs" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,8 +87,12 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python$LC1342.coverage" NAME="LC1342 Coverage Results" MODIFIED="1767598666350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1PythonFoundation&amp;DSABaiscs/2IfElifElseForWhile" />
+    <SUITE FILE_PATH="coverage/Python$LC412.coverage" NAME="LC412 Coverage Results" MODIFIED="1767598401941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1PythonFoundation&amp;DSABaiscs/2IfElifElseForWhile" />
     <SUITE FILE_PATH="coverage/Python$practice.coverage" NAME="practice Coverage Results" MODIFIED="1767510703101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1PythonFoundation&amp;DSABaiscs/1VarDataTypeInput" />
     <SUITE FILE_PATH="coverage/Python$lc1920.coverage" NAME="lc1920 Coverage Results" MODIFIED="1767511545188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1PythonFoundation&amp;DSABaiscs/1VarDataTypeInput" />
+    <SUITE FILE_PATH="coverage/Python$pratice.coverage" NAME="pratice Coverage Results" MODIFIED="1767595102762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1PythonFoundation&amp;DSABaiscs/2IfElifElseForWhile" />
+    <SUITE FILE_PATH="coverage/Python$notes.coverage" NAME="notes Coverage Results" MODIFIED="1767594340538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1PythonFoundation&amp;DSABaiscs/2IfElifElseForWhile" />
     <SUITE FILE_PATH="coverage/Python$leetcode1480.coverage" NAME="leetcode1480 Coverage Results" MODIFIED="1767511062858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1PythonFoundation&amp;DSABaiscs/1VarDataTypeInput" />
   </component>
 </project>
