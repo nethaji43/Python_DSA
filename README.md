@@ -3,6 +3,32 @@
 This repository documents my **daily progress in learning Python and Data Structures & Algorithms**.
 Focus is on **strong fundamentals, clean logic, and consistent practice** with real problems and LeetCode.
 
+
+---
+
+
+## Day 04 – Functions & Scope Basics
+📅 Date: 07-01-2026
+
+**Topics Covered**
+- Functions and function calls
+- Parameters vs arguments
+- return statement behavior
+- Returning multiple values (tuples)
+- Scope basics (local variables)
+
+**Practice**
+- Square of a number using functions
+- Sum, difference, product using functions
+- Positive / Negative / Zero check
+- Sum and maximum of list elements
+- Digit count using function logic
+
+**LeetCode**
+- 1108 — Defanging an IP Address
+- 1672 — Richest Customer Wealth
+
+
 ---
 
 ## Day 03 – Loop Control Statements
