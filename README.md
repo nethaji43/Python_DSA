@@ -3,9 +3,31 @@
 This repository documents my **daily progress in learning Python and Data Structures & Algorithms**.
 Focus is on **strong fundamentals, clean logic, and consistent practice** with real problems and LeetCode.
 
+----
+
+## Day 05 – Lists (Core Fundamentals)
+📅 Date: 08-01-2026
+
+**Topics Covered**
+- List properties (ordered, mutable)
+- Indexing & negative indexing
+- Updating list values
+- append() and pop()
+- Iteration techniques
+- Copy vs reference behavior
+
+**Practice**
+- Print list elements using loops
+- Append & pop operations
+- First, last & middle element access
+- Count occurrences without built-in functions
+- Extract even numbers into a new list
+
+**LeetCode**
+- 217 — Contains Duplicate
+- 1929 — Concatenation of Array
 
 ---
-
 
 ## Day 04 – Functions & Scope Basics
 📅 Date: 07-01-2026
